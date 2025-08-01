@@ -10,9 +10,11 @@
 
    *Age,*
 
-  *Weight,s*
+  *Weight*
 
   *Height.*
+
+*---*
 
 
 
@@ -20,13 +22,13 @@
 
   *allow users to set alarms or reminders for taking pills or checkup.*
 
-
+*---*
 
 *3- Meal plan =*
 
    *provide diet or meal plan as per their health.*
 
-
+*---*
 
 *4- Exercise tracking =*
 
@@ -38,7 +40,7 @@
 
    *intensity.*
 
-
+*---*
 
 *5- Provide information about diabetes management* 
 
@@ -46,11 +48,11 @@
 
 *   videos.*
 
-
+*---*
 
 *6- Provide reminders of doc Appoinments.*
 
-
+*---*
 
 
 
